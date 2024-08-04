@@ -1,0 +1,18 @@
+
+:root {
+    --primary-color: #00b7ff;
+    --secondary-color: #6c757d;
+}
+
+
+#primaryBtn {
+    border: 1px black;
+    background-color: var(--primary-color);
+    color: white;
+}
+
+#secondaryBtn {
+    border: 1px black;
+    background-color: var(--secondary-color);
+    color: white;
+}
